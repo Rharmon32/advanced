@@ -1,5 +1,8 @@
 #This program asks the user if they want to play a guessing game
-#The user has to pick a number between 1 and 25
+#The user has to pick a number between 1 and 25 to receive a point
+#User loses a point if the number is outside of the range. 
+
+#Start the game
 print('Let\'s play a guessing game')
 print('Please choose y for yes or n for no.')
 
